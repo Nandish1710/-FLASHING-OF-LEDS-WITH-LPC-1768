@@ -117,7 +117,7 @@ int main()
 
 ### ARDUINO PROGRAM
 
-<img width="1417" height="715" alt="image" src="https://github.com/user-attachments/assets/b5734e88-37cd-4671-a1c6-c3ded8569c56" />
+<img width="770" height="507" alt="image" src="https://github.com/user-attachments/assets/78e5cf7a-ec15-4a63-b121-5d7e595548b8" />
 
 
 ### KEIL 
